@@ -12,7 +12,7 @@ This project contains an analysis of players and prices of Fifa 20 Ultimate Team
 
 ### Files
 
-In the project directory, there are three files, two Jupyter notebooks, one for the Exploratory Data Analysis and one for the Machine Learning Models and, the Fifa 20 FUT dataset. 
+In the project directory, there are two files, two Jupyter notebooks, one for the Exploratory Data Analysis and one for the Machine Learning Models. 
 
 ### Running the code
 
