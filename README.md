@@ -1,19 +1,18 @@
 # fifa-20-ultimate-team-analysis
 Price and Players analysis from Fifa 20 Ultimate Team. 
+Machine Learning techniques to predict a player's position based on his attributes. 
 
 ## About this Project
 
-This is an analysis of players and prices of Fifa 20 Ultimate Team. 
+This project contains an analysis of players and prices of Fifa 20 Ultimate Team along with Machine Learning techniques to predict a player's position based on his attributes. 
 
 ## Getting Started
 
 ### Why? 
 
-
-
 ### Files
 
-In the project directory, there is one file, the Jupyter notebook where the code is written. 
+In the project directory, there are three files, two Jupyter notebooks, one for the Exploratory Data Analysis and one for the Machine Learning Models and, the Fifa 20 FUT dataset. 
 
 ### Running the code
 
